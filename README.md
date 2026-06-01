@@ -1,7 +1,15 @@
 # ⚖️ Navarro & Associados — Site Institucional
 
+
+## 📋 Sobre o Projeto
+
+Site institucional moderno e responsivo desenvolvido para o escritório de advocacia **Navarro & Associados**. O projeto foi construído com foco em elegância visual, performance e experiência do usuário — refletindo os valores do escritório: seriedade, confiança e excelência jurídica.
+
+O design adota uma identidade sofisticada em tons escuros com acentos dourados, tipografia refinada e animações sutis que transmitem autoridade e modernidade.
+
+---
 <p align="center">
-  <img src="./mockup.png" alt="Mockup responsivo — Desktop, Notebook, Tablet e Mobile" width="100%" />
+  <img src="./assets/mockup.png" alt="Mockup responsivo — Desktop, Notebook, Tablet e Mobile" width="100%" />
 </p>
 
 <p align="center">
@@ -13,13 +21,6 @@
 
 ---
 
-## 📋 Sobre o Projeto
-
-Site institucional moderno e responsivo desenvolvido para o escritório de advocacia **Navarro & Associados**. O projeto foi construído com foco em elegância visual, performance e experiência do usuário — refletindo os valores do escritório: seriedade, confiança e excelência jurídica.
-
-O design adota uma identidade sofisticada em tons escuros com acentos dourados, tipografia refinada e animações sutis que transmitem autoridade e modernidade.
-
----
 
 ## ✨ Funcionalidades
 
